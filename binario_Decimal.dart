@@ -1,6 +1,6 @@
 import "dart:io";
 import "dart:math";
-void binario_Decimal() {
+void main(List<String> args) {
   
 
 try {
