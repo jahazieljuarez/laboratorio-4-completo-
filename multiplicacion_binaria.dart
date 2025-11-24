@@ -1,7 +1,7 @@
 import "dart:io";
 import "dart:math";
 
-void mult_decimal() {
+void main(List<String> args) {
   int numero = 1;
   int numero0 = 0;
   stdout.write("ingresa el primer numero binario ");
